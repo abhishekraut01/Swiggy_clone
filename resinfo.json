@@ -1,0 +1,1818 @@
+[
+    {
+      "info": {
+        "id": "76085",
+        "name": "Domino's Pizza",
+        "cloudinaryImageId": "d0450ce1a6ba19ea60cd724471ed54a8",
+        "locality": "Katol Road",
+        "areaName": "Seminary Hills",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+          "Pizzas",
+          "Italian",
+          "Pastas",
+          "Desserts"
+        ],
+        "avgRating": 4.5,
+        "parentId": "2456",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "1K+",
+        "sla": {
+          "deliveryTime": 25,
+          "lastMileTravel": 1.1,
+          "serviceability": "SERVICEABLE",
+          "slaString": "20-25 mins",
+          "lastMileTravelString": "1.1 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-27 22:59:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "Rxawards/_CATEGORY-Pizza.png",
+              "description": "Delivery!"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "Delivery!",
+                    "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "₹150 OFF",
+          "subHeader": "ABOVE ₹299",
+          "discountTag": "FLAT DEAL"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/dominos-pizza-katol-road-seminary-hills-nagpur-76085",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "92015",
+        "name": "Shabana's Afzal Bakery",
+        "cloudinaryImageId": "jr6jwmdrhjwojxjmujpv",
+        "locality": "Friends Colony",
+        "areaName": "Gittikhadan",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+          "Bakery",
+          "Desserts",
+          "Pizzas",
+          "Pastas",
+          "Chinese",
+          "Snacks",
+          "Fast Food"
+        ],
+        "avgRating": 4.3,
+        "parentId": "180414",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "1K+",
+        "sla": {
+          "deliveryTime": 19,
+          "lastMileTravel": 0.8,
+          "serviceability": "SERVICEABLE",
+          "slaString": "15-20 mins",
+          "lastMileTravelString": "0.8 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-27 21:30:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/shabanas-afzal-bakery-friends-colony-gittikhadan-nagpur-92015",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "802293",
+        "name": "Kwality Walls Frozen Dessert and Ice Cream Shop",
+        "cloudinaryImageId": "5eac04c1f18b2231d62625344659dddc",
+        "locality": "Adiwasi Society",
+        "areaName": "Sadar",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "Ice Cream",
+          "Desserts",
+          "Ice Cream Cakes"
+        ],
+        "avgRating": 4.6,
+        "veg": true,
+        "parentId": "582",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 16,
+          "lastMileTravel": 1,
+          "serviceability": "SERVICEABLE",
+          "slaString": "15-20 mins",
+          "lastMileTravelString": "1.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-28 02:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "isNewlyOnboarded": true,
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/kwality-walls-frozen-dessert-and-ice-cream-shop-adiwasi-society-sadar-nagpur-802293",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "528951",
+        "name": "Pizza Hut",
+        "cloudinaryImageId": "2b4f62d606d1b2bfba9ba9e5386fabb7",
+        "locality": "Chhaoni",
+        "areaName": "Chhaoni",
+        "costForTwo": "₹350 for two",
+        "cuisines": [
+          "Pizzas"
+        ],
+        "avgRating": 4.3,
+        "parentId": "721",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "1K+",
+        "sla": {
+          "deliveryTime": 33,
+          "lastMileTravel": 4.7,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30-35 mins",
+          "lastMileTravelString": "4.7 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-28 03:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "Rxawards/_CATEGORY-Pizza.png",
+              "description": "Delivery!"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "Delivery!",
+                    "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/pizza-hut-chhaoni-nagpur-528951",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "256895",
+        "name": "McDonald's",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/1/70b5ce5b-6cff-4729-9d08-c19965ffb124_256895.JPG",
+        "locality": "Sadar",
+        "areaName": "Sadar",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+          "Burgers",
+          "Beverages",
+          "Cafe",
+          "Desserts"
+        ],
+        "avgRating": 4.4,
+        "parentId": "630",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "5K+",
+        "sla": {
+          "deliveryTime": 24,
+          "lastMileTravel": 4.7,
+          "serviceability": "SERVICEABLE",
+          "slaString": "20-25 mins",
+          "lastMileTravelString": "4.7 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-28 02:45:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "Rxawards/_CATEGORY-Burger.png",
+              "description": "Delivery!"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "Delivery!",
+                    "imageId": "Rxawards/_CATEGORY-Burger.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/mcdonalds-sadar-nagpur-256895",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "422970",
+        "name": "NIC Ice Creams",
+        "cloudinaryImageId": "85825a6d74b1059a63a9b688de9f67ce",
+        "locality": "Chindwada Road",
+        "areaName": "Chaoni",
+        "costForTwo": "₹120 for two",
+        "cuisines": [
+          "Ice Cream",
+          "Desserts"
+        ],
+        "avgRating": 4.7,
+        "veg": true,
+        "parentId": "6249",
+        "avgRatingString": "4.7",
+        "totalRatingsString": "1K+",
+        "sla": {
+          "deliveryTime": 31,
+          "lastMileTravel": 4.5,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30-35 mins",
+          "lastMileTravelString": "4.5 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-28 00:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/nic-ice-creams-chindwada-road-chaoni-nagpur-422970",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "722309",
+        "name": "FNP Cakes By Ferns N Petals",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/17/6cc50e37-9afb-40f7-b12a-cdf14be99ffd_722309.jpg",
+        "locality": "Acharaj Tower 1",
+        "areaName": "Chhindwara Road",
+        "costForTwo": "₹499 for two",
+        "cuisines": [
+          "Desserts",
+          "Bakery",
+          "Sweets",
+          "Ice Cream",
+          "Beverages",
+          "North Indian",
+          "Chinese"
+        ],
+        "avgRating": 4,
+        "veg": true,
+        "parentId": "339638",
+        "avgRatingString": "4.0",
+        "totalRatingsString": "50+",
+        "sla": {
+          "deliveryTime": 39,
+          "lastMileTravel": 4.5,
+          "serviceability": "SERVICEABLE",
+          "slaString": "35-40 mins",
+          "lastMileTravelString": "4.5 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-27 21:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/fnp-cakes-by-ferns-n-petals-acharaj-tower-1-chhindwara-road-nagpur-722309",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "53585",
+        "name": "Haldiram's Restaurant",
+        "cloudinaryImageId": "1abb89624b491497c8cff182d95ac457",
+        "locality": "Sadar",
+        "areaName": "Sadar",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+          "North Indian",
+          "South Indian",
+          "Biryani",
+          "Chinese",
+          "Chaat",
+          "Thalis",
+          "Bakery",
+          "Sweets",
+          "Beverages",
+          "Desserts",
+          "Snacks",
+          "Continental",
+          "Momos",
+          "Pastas",
+          "Burgers"
+        ],
+        "avgRating": 4.5,
+        "veg": true,
+        "parentId": "351771",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "10K+",
+        "sla": {
+          "deliveryTime": 27,
+          "lastMileTravel": 4.7,
+          "serviceability": "SERVICEABLE",
+          "slaString": "25-30 mins",
+          "lastMileTravelString": "4.7 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-27 22:30:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "Rxawards/_CATEGORY-Thali.png",
+              "description": "Delivery!"
+            },
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "Delivery!",
+                    "imageId": "Rxawards/_CATEGORY-Thali.png"
+                  }
+                },
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "₹100 OFF",
+          "subHeader": "ABOVE ₹299",
+          "discountTag": "FLAT DEAL"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/haldirams-restaurant-sadar-nagpur-53585",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "56276",
+        "name": "Cluckers Fried Chicken Restaurant",
+        "cloudinaryImageId": "1ef0dd46e6ae6f2cd4f4aa57537c9a7f",
+        "locality": "Civil Lines",
+        "areaName": "Civil Lines",
+        "costForTwo": "₹250 for two",
+        "cuisines": [
+          "Fast Food",
+          "Burger",
+          "Snacks",
+          "Beverages"
+        ],
+        "avgRating": 4.5,
+        "parentId": "4842",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "5K+",
+        "sla": {
+          "deliveryTime": 35,
+          "lastMileTravel": 4.7,
+          "serviceability": "SERVICEABLE",
+          "slaString": "35-40 mins",
+          "lastMileTravelString": "4.7 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-27 23:00:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {
+          
+        },
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/cluckers-fried-chicken-restaurant-civil-lines-nagpur-56276",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "422971",
+        "name": "Grameen Kulfi",
+        "cloudinaryImageId": "fabmerdrji2cjcrfxtgy",
+        "locality": "Achraj Towers Katol Road",
+        "areaName": "Chindwada",
+        "costForTwo": "₹120 for two",
+        "cuisines": [
+          "Ice Cream",
+          "Desserts"
+        ],
+        "avgRating": 4.6,
+        "veg": true,
+        "parentId": "12175",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 23,
+          "lastMileTravel": 4.5,
+          "serviceability": "SERVICEABLE",
+          "slaString": "20-25 mins",
+          "lastMileTravelString": "4.5 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-28 00:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/grameen-kulfi-achraj-towers-katol-road-chindwada-nagpur-422971",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "683827",
+        "name": "Natural Ice Cream",
+        "cloudinaryImageId": "d940666c8d2376a8d89661d09a1497f5",
+        "locality": "JP Emperio",
+        "areaName": "Sadar",
+        "costForTwo": "₹150 for two",
+        "cuisines": [
+          "Ice Cream",
+          "Desserts"
+        ],
+        "avgRating": 4.7,
+        "veg": true,
+        "parentId": "2093",
+        "avgRatingString": "4.7",
+        "totalRatingsString": "500+",
+        "sla": {
+          "deliveryTime": 28,
+          "lastMileTravel": 4.7,
+          "serviceability": "SERVICEABLE",
+          "slaString": "25-30 mins",
+          "lastMileTravelString": "4.7 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-28 01:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "Rxawards/_CATEGORY-Ice-creams.png",
+              "description": "Delivery!"
+            },
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "Delivery!",
+                    "imageId": "Rxawards/_CATEGORY-Ice-creams.png"
+                  }
+                },
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/natural-ice-cream-jp-emperio-sadar-nagpur-683827",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "420329",
+        "name": "McDonald's Gourmet Burger Collection",
+        "cloudinaryImageId": "bweqhhh4yujeevxjd0us",
+        "locality": "Poonam chembers",
+        "areaName": "Sadar",
+        "costForTwo": "₹500 for two",
+        "cuisines": [
+          "Burgers",
+          "Beverages",
+          "Cafe",
+          "Desserts"
+        ],
+        "avgRating": 4.6,
+        "parentId": "10761",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 38,
+          "lastMileTravel": 4.6,
+          "serviceability": "SERVICEABLE",
+          "slaString": "35-40 mins",
+          "lastMileTravelString": "4.6 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-28 02:45:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/mcdonalds-gourmet-burger-collection-poonam-chembers-sadar-nagpur-420329",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "58701",
+        "name": "Subway",
+        "cloudinaryImageId": "63178e3e64d503a479f2a2048a474552",
+        "locality": "Chhaoni",
+        "areaName": "Chhaoni",
+        "costForTwo": "₹350 for two",
+        "cuisines": [
+          "Healthy Food",
+          "Salads",
+          "Snacks",
+          "Desserts",
+          "Beverages"
+        ],
+        "avgRating": 4.4,
+        "parentId": "2",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "5K+",
+        "sla": {
+          "deliveryTime": 36,
+          "lastMileTravel": 4.7,
+          "serviceability": "SERVICEABLE",
+          "slaString": "35-40 mins",
+          "lastMileTravelString": "4.7 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-28 01:15:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {
+          
+        },
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/subway-chhaoni-nagpur-58701",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "826641",
+        "name": "Pastas By Pizza Hut",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/1/09e6e7e2-9e09-4d04-a0c2-2f13e32734b7_826641.JPG",
+        "locality": "Chhaoni",
+        "areaName": "Chhaoni",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+          "Pastas"
+        ],
+        "avgRating": 4.2,
+        "parentId": "306806",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "10+",
+        "sla": {
+          "deliveryTime": 34,
+          "lastMileTravel": 4.7,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30-35 mins",
+          "lastMileTravelString": "4.7 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-28 03:00:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "isNewlyOnboarded": true,
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/pastas-by-pizza-hut-chhaoni-nagpur-826641",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "662645",
+        "name": "Starbucks Coffee",
+        "cloudinaryImageId": "2418209798927d733a50f5d2ebcc2aee",
+        "locality": "Park Avenue",
+        "areaName": "Chhaoni Colony",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+          "Beverages",
+          "Cafe",
+          "Snacks",
+          "Desserts",
+          "Bakery",
+          "Ice Cream"
+        ],
+        "avgRating": 4.5,
+        "parentId": "195515",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 27,
+          "lastMileTravel": 4.8,
+          "serviceability": "SERVICEABLE",
+          "slaString": "25-30 mins",
+          "lastMileTravelString": "4.8 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-27 23:59:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/starbucks-coffee-park-avenue-chhaoni-colony-nagpur-662645",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "76405",
+        "name": "Cafe Coffee Day",
+        "cloudinaryImageId": "b70c7d23d197251b7b315b7e4d8173ae",
+        "locality": "Futala Road",
+        "areaName": "Civil Lines",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+          "Beverages",
+          "Cafe",
+          "Snacks",
+          "Desserts",
+          "Burgers",
+          "Ice Cream",
+          "Bakery",
+          "Fast Food"
+        ],
+        "avgRating": 4.7,
+        "parentId": "1",
+        "avgRatingString": "4.7",
+        "totalRatingsString": "500+",
+        "sla": {
+          "deliveryTime": 33,
+          "lastMileTravel": 5,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30-35 mins",
+          "lastMileTravelString": "5.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-27 23:45:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/cafe-coffee-day-futala-road-civil-lines-nagpur-76405",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "60606",
+        "name": "Little Italy",
+        "cloudinaryImageId": "46c429953956a7c530b74a61c55d8f88",
+        "locality": "Civil Lines",
+        "areaName": "Civil Lines",
+        "costForTwo": "₹850 for two",
+        "cuisines": [
+          "Italian",
+          "Pizzas",
+          "Pastas",
+          "Salads",
+          "Desserts"
+        ],
+        "avgRating": 4.3,
+        "parentId": "600",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "1K+",
+        "sla": {
+          "deliveryTime": 39,
+          "lastMileTravel": 5,
+          "serviceability": "SERVICEABLE",
+          "slaString": "35-40 mins",
+          "lastMileTravelString": "5.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-27 23:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "newg.png",
+              "description": "Gourmet"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "Gourmet",
+                    "imageId": "newg.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "60% OFF",
+          "subHeader": "UPTO ₹120"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/little-italy-civil-lines-nagpur-60606",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "56350",
+        "name": "Checkers",
+        "cloudinaryImageId": "d5516079bd5c3cf93e9c5a5340287894",
+        "locality": "Sadar",
+        "areaName": "Sadar",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+          "Chinese",
+          "North Indian",
+          "Continental",
+          "Beverages",
+          "Pizzas",
+          "Desserts"
+        ],
+        "avgRating": 4.6,
+        "parentId": "21854",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "10K+",
+        "sla": {
+          "deliveryTime": 34,
+          "lastMileTravel": 5.5,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30-35 mins",
+          "lastMileTravelString": "5.5 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-27 23:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "Rxawards/_CATEGORY-Chinese.png",
+              "description": "Delivery!"
+            }
+          ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {
+          
+        },
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "Delivery!",
+                    "imageId": "Rxawards/_CATEGORY-Chinese.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/checkers-sadar-nagpur-56350",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "333450",
+        "name": "Biryani By Kilo",
+        "cloudinaryImageId": "bf9be1c6b9d796850f426281559cb2d2",
+        "locality": "Dharampeth",
+        "areaName": "Dharampeth",
+        "costForTwo": "₹499 for two",
+        "cuisines": [
+          "Biryani",
+          "Hyderabadi",
+          "North Indian",
+          "Kebabs",
+          "Mughlai",
+          "Desserts"
+        ],
+        "avgRating": 4.3,
+        "parentId": "130",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "5K+",
+        "sla": {
+          "deliveryTime": 56,
+          "lastMileTravel": 5.7,
+          "serviceability": "SERVICEABLE",
+          "slaString": "55-60 mins",
+          "lastMileTravelString": "5.7 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-28 00:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "newg.png",
+              "description": "Gourmet"
+            }
+          ],
+          "textExtendedBadges": [
+            {
+              "iconId": "guiltfree/GF_Logo_android_3x",
+              "shortDescription": "options available",
+              "fontColor": "#7E808C"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "Gourmet",
+                    "imageId": "newg.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "",
+                    "fontColor": "#7E808C",
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "shortDescription": "options available"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/biryani-by-kilo-dharampeth-nagpur-333450",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "755449",
+        "name": "Goila Butter Chicken",
+        "cloudinaryImageId": "2acf0681a049dea7dac7271cf7ccc560",
+        "locality": "RAMNAGAR",
+        "areaName": "DHARMPETH",
+        "costForTwo": "₹600 for two",
+        "cuisines": [
+          "North Indian",
+          "Biryani",
+          "Kebabs",
+          "Desserts"
+        ],
+        "avgRating": 4.2,
+        "parentId": "322587",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 44,
+          "lastMileTravel": 5.7,
+          "serviceability": "SERVICEABLE",
+          "slaString": "40-45 mins",
+          "lastMileTravelString": "5.7 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-05-28 00:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "newg.png",
+              "description": "Gourmet"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "Gourmet",
+                    "imageId": "newg.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "₹125 OFF",
+          "subHeader": "ABOVE ₹249",
+          "discountTag": "FLAT DEAL"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/goila-butter-chicken-ramnagar-dharmpeth-nagpur-755449",
+        "type": "WEBLINK"
+      }
+    }
+  ]
