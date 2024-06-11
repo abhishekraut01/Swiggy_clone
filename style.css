@@ -55,6 +55,30 @@ body {
    cursor: pointer;
 }
 
+.search-btn {
+    padding: 10px 40px;
+    border-radius: 12px;
+    border: none;
+    margin-left: 10px;
+    background-color: #191918;
+    color: #fff; /* Ensure the text color is readable */
+    font-size: 16px; /* Slightly increase font size */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Add transition for smooth effect */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+.search-btn:hover {
+    background-color: #ff9f00; /* Slightly darker background on hover */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15); /* Increase shadow on hover */
+}
+
+.search-btn:active {
+    background-color: #e68a00; /* Even darker background when button is active */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Smaller shadow on active click */
+}
+
+
 /* __________________restro card component________________________________ */
 .res-card {
     border: 1px solid #e2e2e2;
