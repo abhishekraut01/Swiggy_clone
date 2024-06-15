@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { CDN_URL } from "../utils/constant";
 import RestorCard from "./RestroCard";
 import Shrimmer from './Shrimmer';
 
