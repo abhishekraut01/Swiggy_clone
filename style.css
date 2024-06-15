@@ -16,7 +16,6 @@ body {
     width: 100%;
     padding: 0% 4%;
 }
-
 .header {
     display: flex;
     justify-content: space-between;
@@ -34,7 +33,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
 
 .nav-items ul {
@@ -47,13 +45,21 @@ body {
 
 .nav-items ul li {
     display: flex;
+    align-items: center;
     gap: 5px;
-    font-size: 2.4vh;
+    font-size: 1rem;
+    cursor: pointer;
 }
+
 .nav-items ul li:hover {
-   color: #FFAB0A;
-   cursor: pointer;
+    color: #FFAB0A;
 }
+
+.auth-button {
+    cursor: pointer;
+    font-weight: bold;
+}
+
 .search-btn {
     padding: 10px 40px;
     border-radius: 12px;
@@ -188,4 +194,72 @@ body {
 
 .res-container .res-card {
     margin-bottom: 20px;
+}
+
+/* RestorCardShimmer.css */
+
+.shimmer {
+    background: #f6f7f8;
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+}
+
+.shimmer::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(90deg, #f6f7f8 25%, #edeef1 50%, #f6f7f8 75%);
+    animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(100%);
+    }
+}
+
+.shimmer-img {
+    width: 100%;
+    height: 150px;
+    background: #f0f0f0;
+}
+
+.shimmer-text {
+    background: #e0e0e0;
+    border-radius: 4px;
+    margin: 5px 0;
+}
+
+.shimmer-name {
+    width: 60%;
+    height: 20px;
+}
+
+.shimmer-rating {
+    width: 30%;
+    height: 15px;
+}
+
+.shimmer-time {
+    width: 30%;
+    height: 15px;
+    margin-left: 10px;
+}
+
+.shimmer-cuisine,
+.shimmer-location {
+    width: 80%;
+    height: 15px;
+}
+
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
 }
