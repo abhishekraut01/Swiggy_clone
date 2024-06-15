@@ -65,12 +65,7 @@ const Body = () => {
                 {tempData.map((restaurant) => (
                     <RestorCard
                         key={restaurant.info.id}
-                        name={restaurant.info.name}
-                        image={`${CDN_URL}${restaurant.info.cloudinaryImageId}`}
-                        rating={restaurant.info.avgRating}
-                        time={restaurant.info.sla.slaString}
-                        cuisine={restaurant.info.cuisines.join(', ')}
-                        location={restaurant.info.areaName}
+                        restaurant = {restaurant}
                     />
                 ))}
             </div>
