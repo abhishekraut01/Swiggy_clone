@@ -1,8 +1,12 @@
-import React, { useState } from 'react';
+import React, { useState , useEffect } from 'react';
 import { LOGO_URL } from "../utils/constant";
 
 const Header = () => {
     const [isLoggedIn, setIsLoggedIn] = useState(false);
+
+    useEffect(()=>{
+        console.log("Header Mounted")
+    },[])
 
     const handleAuthClick = () => {
         setIsLoggedIn(!isLoggedIn);
