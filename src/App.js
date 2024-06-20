@@ -11,6 +11,7 @@ import Myaccount from './components/Myaccount';
 import Checkout from './components/Checkout';
 import Offers from './components/Offers';
 import Myaccount from './components/Myaccount';
+import RestorentMenu from './components/RestorentMenu';
 
 import {
     createBrowserRouter,
@@ -53,6 +54,11 @@ const AppRouter = createBrowserRouter([
             {
                 path: '/search',
                 element: <Search />,
+                errorElement: <ErrorPage />
+            },
+            {
+                path: '/restorentmenu/:ResId',
+                element: <RestorentMenu />,
                 errorElement: <ErrorPage />
             },
         ]

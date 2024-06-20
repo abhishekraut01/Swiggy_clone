@@ -106,6 +106,34 @@ body {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Smaller shadow on active click */
 }
 
+/* Add this to your existing CSS */
+
+/* Target the links within nav-items to remove default styling */
+.nav-items ul li a {
+    color: inherit; /* Inherit the color from the parent element */
+    text-decoration: none; /* Remove underline */
+}
+
+/* Optional: Add a hover effect to links if needed */
+.nav-items ul li a:hover {
+    color: #FFAB0A; /* Example hover color */
+}
+
+/* Ensure other link states (visited, active) also inherit color */
+.nav-items ul li a:visited,
+.nav-items ul li a:active {
+    color: inherit; /* Inherit the color from the parent element */
+}
+
+/* Add custom cursor style to auth-button */
+.auth-button a {
+    cursor: pointer;
+    font-weight: bold;
+    color: inherit;
+    text-decoration: none;
+}
+
+/* Apply any other specific styles as necessary */
 
 /* __________________restro card component________________________________ */
 .res-card {
