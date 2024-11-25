@@ -12,8 +12,7 @@ const Shrimmer = () => {
                     <p className='shimmer-text shimmer-cuisine'></p>
                     <p className='shimmer-text shimmer-location'></p>
                 </div>
-            </div>
-        
+            </div>  
     )
 }
 

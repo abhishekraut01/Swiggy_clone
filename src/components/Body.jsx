@@ -9,9 +9,10 @@ const Body = () => {
 
     const fetchData = async () => {
         try {
-            const response = await fetch(`https://corsproxy.io/?https://www.swiggy.com/dapi/restaurants/list/v5?lat=21.11610&lng=79.07060&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING`)
+            const response = await fetch(`https://corsproxy.io/?https://www.swiggy.com/dapi/restaurants/list/v5?lat=21.1161&lng=79.0706&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING`)
 
             const jsonData = await response.json();
+            console.log(jsonData)
         
             setFilteredData(jsonData?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants)
             setTempData(jsonData?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants)
