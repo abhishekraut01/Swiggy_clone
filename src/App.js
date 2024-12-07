@@ -9,8 +9,6 @@ import Offers from './components/Offers';
 import Support from './components/Support';
 import Myaccount from './components/Myaccount';
 import Checkout from './components/Checkout';
-import Offers from './components/Offers';
-import Myaccount from './components/Myaccount';
 import RestorentMenu from './components/RestorentMenu';
 
 import {
@@ -26,12 +24,39 @@ const AppLayout = () => {
     return (
         <div className='app'>
             <Header />
-            
+            <Body/>
         </div>
     )
 }
 
+const AppRouter = createBrowserRouter([
+    {
+        path:'/',
+        element:<AppLayout/>
+    },
+    {
+        path:'/offers',
+        element:<Offers/>
+    },
+    {
+        path:'/Support',
+        element:<Support/>
+    },
+    {
+        path:'/Myaccount',
+        element:<Myaccount/>
+    },
+    {
+        path:'/Checkout',
+        element:<Checkout/>
+    },
+    {
+        path:'/RestorentMenu',
+        element:<RestorentMenu/>
+    },
+])
+
 
 const root = ReactDOM.createRoot(document.getElementById("root"))
 
-root.render(<AppLayout/>)
+root.render(<RouterProvider router={AppRouter}/>)
