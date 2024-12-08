@@ -2,58 +2,69 @@ import React, { useState } from 'react'
 import { useEffect } from 'react'
 import SliderForResMenu from './SliderForResMenu'
 import 'remixicon/fonts/remixicon.css'
+import Shrimmer from './Shrimmer'
+
 function RestorentMenu() {
-  const [resMenuDetails, setresMenuDetails] = useState([])
+  const [resMenuDetails, setresMenuDetails] = useState(null)
 
   const fetchData = async () => {
     try {
-      const response = await fetch(`https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=21.11610&lng=79.07060&restaurantId=758539&catalog_qa=undefined&submitAction=ENTER`);
-
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
-      }
+      const response = await fetch(`https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=21.11610&lng=79.07060&restaurantId=773319&catalog_qa=undefined&submitAction=ENTER`);
 
       const jsonData = await response.json();
-      console.log(jsonData);
-      setresMenuDetails(jsonData); // Ensure you update state here if required
+
+      const resMenuDetails = jsonData?.data?.cards
+      setresMenuDetails(resMenuDetails)
+
     } catch (error) {
-      console.error("Error fetching data:", error);
+      console.log(error);
     }
   };
 
-
   useEffect(() => {
     fetchData()
-  })
+  }, [])
 
+  const resDetails = resMenuDetails?.[2]?.card?.card?.info; // Access safely
+  console.log("resDetails:", resDetails); // Debugging
+
+  if (!resMenuDetails) {
+    return (
+      <div className="wrapper">
+        {Array.from({ length: 20 }).map((_, index) => (
+          <Shrimmer key={index} />
+        ))}
+      </div>
+    ); // Show loader if data isn’t ready
+  }
 
   return (
     <div>
       <div className="bg-white max-w-4xl mx-auto p-6 rounded-lg ">
 
-        <h2 className="text-2xl mb-1 font-bold text-gray-800">Two Brothers Shawarma</h2>
+        <h2 className="text-2xl mb-1 font-bold text-gray-800">{resDetails.name}</h2>
 
         <div className="max-w-4xl mb-8 mx-auto border rounded-2xl shadow-lg p-4 bg-white">
           {/* Rating and Cost */}
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-1">
-              <span className="text-green-600 text-lg font-semibold">4.2</span>
-              <span className="text-gray-500 text-sm">(3.1K+ ratings)</span>
+              <span className="text-green-600 text-lg font-semibold">{resDetails.avgRating}</span>
+              <span className="text-gray-500 text-sm">({resDetails.totalRatingsString})</span>
             </div>
-            <div className="text-gray-700 text-sm font-medium">₹300 for two</div>
+            <div className="text-gray-700 text-sm font-medium">{resDetails.costForTwoMessage}</div>
           </div>
 
           {/* Cuisine */}
           <div className="mt-2">
-            <p className="text-orange-600 font-semibold text-sm">Lebanese, Momos</p>
+            <p className="text-orange-600 font-semibold text-sm">{resDetails.cuisines.join(' ')}</p>
           </div>
 
           {/* Location and Time */}
           <div className="mt-3 text-gray-500 text-sm space-y-1">
             <p>
-              <span className="font-medium text-black">Outlet:</span> Bajaj Nagar
+              <span className="font-medium text-black">Outlet:</span> {resDetails.locality}
             </p>
-            <p>20-25 mins</p>
+            <p>{resDetails.sla.minDeliveryTime}-{resDetails.sla.maxDeliveryTime} mins</p>
           </div>
 
           {/* Free Delivery Banner */}
