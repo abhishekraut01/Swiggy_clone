@@ -9,13 +9,18 @@ function RestorentMenu() {
     try {
       const response = await fetch(`https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=21.11610&lng=79.07060&restaurantId=758539&catalog_qa=undefined&submitAction=ENTER`);
 
-      const data = await response.json();
-      console.log(data);
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
 
+      const jsonData = await response.json();
+      console.log(jsonData);
+      setresMenuDetails(jsonData); // Ensure you update state here if required
     } catch (error) {
-      console.log(error);
+      console.error("Error fetching data:", error);
     }
   };
+
 
   useEffect(() => {
     fetchData()
@@ -95,7 +100,7 @@ function RestorentMenu() {
 
         </div>
 
-        <SliderForResMenu/>
+        <SliderForResMenu />
       </div>
     </div>
   );

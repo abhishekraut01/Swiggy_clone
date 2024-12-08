@@ -12,15 +12,11 @@ const Body = () => {
     const fetchData = async () => {
         try {
             const url = `https://www.swiggy.com/dapi/restaurants/list/v5?lat=21.1161&lng=79.0706&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING`;
-            console.log("Request URL:", url);
 
             const response = await fetch(url)
-
             const jsonData = await response.json();
-            console.log(jsonData)
 
             setFilteredData(jsonData?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants)
-            console.log(filteredData)
             settempData(jsonData?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants)
 
         } catch (error) {
